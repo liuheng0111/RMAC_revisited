@@ -4,7 +4,7 @@ This code is used to illustrate the method presented in our paper: **RMAC Revisi
 
 ## Dataset
 The [Oxford5k](http://www.robots.ox.ac.uk/~vgg/data/oxbuildings/) and [Paris6k](http://www.robots.ox.ac.uk/~vgg/data/parisbuildings/) object retrieval dataset.
-The jpg image of the Oxford5k dataset should be placed in the path of './dataset/oxford5k/', and the same for the Paris6k dataset
+The jpg image of the Oxford5k dataset should be placed in the path of './datasets/oxford5k/', and the same for the Paris6k dataset.
 
 ## Pre-train deep Model
 The [MatConvnet toolbox](http://www.vlfeat.org/matconvnet/) is used to extract RMAC feature, and the VGG-16 public model is provided in Tolias' ICLR2016 paper
