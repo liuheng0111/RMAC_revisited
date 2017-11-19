@@ -7,6 +7,7 @@ The [Oxford5k](http://www.robots.ox.ac.uk/~vgg/data/oxbuildings/) and [Paris6k](
 
 ## Pre-train deep Model
 The [MatConvnet toolbox](http://www.vlfeat.org/matconvnet/) and the VGG-16 public model, which is provided by Tolias' ICLR2016 paper
+
     @article{tolias2015particular,
       title={Particular object retrieval with integral max-pooling of CNN activations},
       author={Tolias, Giorgos and Sicre, Ronan and J{\'e}gou, Herv{\'e}},
