@@ -17,4 +17,4 @@ The [MatConvnet toolbox](http://www.vlfeat.org/matconvnet/) and the VGG-16 publi
 
 ## Evaluated Result
 In matlab, run 'wm_test_spoc'. 
-Then the mAP after re-ranking and QE is 0.818
+Then the mAP after re-ranking and QE is 0.818 on the Oxford5k dataset
