@@ -1,6 +1,6 @@
 # RMAC_revisited
 
-This code is used to illustrate the method presented in our paper: **RMAC Revisited: three strategies to improve object retrieval**, which is an extension of our conference paper (its public code is released in the [Fusion_RMAC](https://github.com/wangmaoCS/Fusion_RMAC)).
+This code is used to illustrate the method presented in our paper: **RMAC Revisited: three strategies to improve object retrieval**, which is an extension of our conference paper (its public code is released in the [Fusion_RMAC](https://github.com/wangmaoCS/Fusion_RMAC) project).
 
 ## Dataset
 The [Oxford5k](http://www.robots.ox.ac.uk/~vgg/data/oxbuildings/) and [Paris6k](http://www.robots.ox.ac.uk/~vgg/data/parisbuildings/) object retrieval dataset.
