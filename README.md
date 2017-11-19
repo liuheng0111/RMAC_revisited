@@ -6,7 +6,7 @@ This code is used to illustrate the method presented in our paper: **RMAC Revisi
 The [Oxford5k](http://www.robots.ox.ac.uk/~vgg/data/oxbuildings/) and [Paris6k](http://www.robots.ox.ac.uk/~vgg/data/parisbuildings/) object retrieval dataset.
 
 ## Pre-train deep Model
-The [MatConvnet toolbox](http://www.vlfeat.org/matconvnet/) and the VGG-16 public model, which is provided by Tolias' ICLR2016 paper
+The [MatConvnet toolbox](http://www.vlfeat.org/matconvnet/) is used to extract RMAC feature, and the VGG-16 public model is provided in Tolias' ICLR2016 paper
 
     @article{tolias2015particular,
       title={Particular object retrieval with integral max-pooling of CNN activations},
